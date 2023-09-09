@@ -23,7 +23,7 @@ Setup Instructions
 To get started with the project, follow the instructions below:
 
 Clone the repository: Start by cloning this repository to your local machine using the following command:
-git clone https://github.com/raj007-aii/3D_Product_Designer_Web_App.git
+git clone https://github.com/scapsi/threejs-project.git
 Navigate to the project directory:
 cd 3d-product-design-website/client
 Install dependencies: Navigate to the project directory and install the dependencies for both the front-end and back-end
